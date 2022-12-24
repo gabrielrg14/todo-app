@@ -1,4 +1,5 @@
 # todo-app
-Sistema para Gerenciamento de Tarefas (ToDo's)
 
-Este sistema foi desenvolvido juntamente com o curso de React + Redux da Cod3r Cursos, onde inicialmente, construiu-se o frontend puramente com o React e, após a apresentação e o ensinamento da biblioteca de gerenciamento de estado Redux, houve a migração do frontend para a versão que utilizou o Redux junto ao React.
+Task Management System (ToDos)
+
+This system was developed together with the React + Redux course by Cod3r Cursos, where initially, the frontend was built purely with React and, after the presentation and teaching of the Redux state management library, there was a frontend migration to the version that used Redux with React.
